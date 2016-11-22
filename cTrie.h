@@ -1,6 +1,6 @@
 //Most Recent Changes.. 
 //Removed the exist() check from insertWord.. Works fine.. Need To look for faster ways to check existence
-//After Deleting All.. Root->children doesn't has all indices set to NULL
+//After Deleting All.. Root->children doesn't have all indices set to NULL
 // .... Maybe verdict is never equating to zero in deleteWord
 
 #ifndef CONDENSED_TRIE_H
